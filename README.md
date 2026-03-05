@@ -174,8 +174,6 @@ The synthetic dataset uses realistic 5G NR parameters:
 - Hyperparameter tuning for tree-based models
 - Cross-validation ready architecture
 
-## Author
-5G Network Analytics Research Project
 
 ## References
 
